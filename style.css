@@ -78,7 +78,7 @@ p {
     flex-direction: column;
     box-sizing: border-box;
     justify-content: flex-start;
-    width: 60%;
+    width: 80%;
     word-wrap:break-word;
 }
 
